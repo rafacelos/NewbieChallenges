@@ -50,3 +50,5 @@ if (sexo2 == 'F') {
     }
 
 };
+
+//corrigido
