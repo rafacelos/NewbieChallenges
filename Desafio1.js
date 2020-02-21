@@ -46,7 +46,7 @@ if (sexo2 == 'F') {
     if (regra >= 95 && contribuicao >=35){
         console.log(`${cidadao}, você pode se aposentar!`);
     } else {
-        console.log(`${cidadao}, você pode se aposentar!`);
+        console.log(`${cidadao}, você ainda nao pode se aposentar!`);
     }
 
 };
